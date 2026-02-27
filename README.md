@@ -31,7 +31,7 @@ Please avoid posting personal information.
 
 ## Security / exploits
 If you believe you’ve found a **dupe/exploit/security-sensitive** issue, do **not** post it publicly.
-Instead, contact the maintainer via the mod’s distribution page or community channel (if provided).
+Instead, contact us via the mod’s distribution page.
 
 ## Quick links
 - Issues: use the **New issue** button in this repo.
